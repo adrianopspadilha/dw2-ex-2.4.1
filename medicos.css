@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    font-size: 20px;
+}
+img{
+    clip-path: circle();
+    width: 15em;
+}
